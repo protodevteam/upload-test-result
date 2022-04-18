@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-      branches: [ master ]
+      branches: [ main ]
 
 jobs:
   test:
@@ -26,6 +26,7 @@ jobs:
     - name: Test result notify
       uses: ./
       env:
-        ONLY_NOTIFY_ON_ISSUES: "True"
-        SLACK_CHANNEL: C5BMKV7EV
+        JUNIT_TEST_RESULTS: test_build/test-results/test
+        JACOCO_REPORTS: test_build/reports/jacoco/test/jacocoTestReport.xml
+        SLACK_URL: ${{ secrets.SLACK_URL }}
 

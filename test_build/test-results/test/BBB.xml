@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.BBB" tests="12" skipped="1" failures="0" errors="0" timestamp="2022-04-16T02:21:50" hostname="neouiMaBookPro2" time="1.904">
+  <properties/>
+  <testcase name="TEST1()" classname="com.example.BBB.TEST" time="1.353"/>
+  <testcase name="TEST2()" classname="com.example.BBB.TEST" time="0.128"/>
+  <testcase name="TEST3()" classname="com.example.BBB.TEST" time="0.006"/>
+  <testcase name="TEST4()" classname="com.example.BBB.TEST" time="0.057"/>
+  <testcase name="TEST5()" classname="com.example.BBB.TEST" time="0.006"/>
+  <testcase name="TEST6()" classname="com.example.BBB.TEST" time="0.029"/>
+  <testcase name="TEST7()" classname="com.example.BBB.TEST" time="0.053"/>
+  <testcase name="TEST8()" classname="com.example.BBB.TEST" time="0.009"/>
+  <testcase name="TEST9()" classname="com.example.BBB.TEST" time="0.018"/>
+  <testcase name="TEST10()" classname="com.example.BBB.TEST" time="0.042"/>
+  <testcase name="TEST11()" classname="com.example.BBB.TEST" time="0.085"/>
+  <testcase name="TEST12()" classname="com.example.BBB.TEST" time="0.005"/>
+  <testcase name="TEST13()" classname="com.example.BBB.TEST" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

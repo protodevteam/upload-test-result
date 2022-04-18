@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.AAA" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-16T02:21:48" hostname="neouiMaBookPro2" time="1.797">
+  <properties/>
+  <testcase name="testNotificationNok()" classname="com.example.AAA.Test" time="1.789"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

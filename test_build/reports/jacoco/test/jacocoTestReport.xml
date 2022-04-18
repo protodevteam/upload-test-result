@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><!DOCTYPE report PUBLIC "-//JACOCO//DTD Report 1.1//EN" "report.dtd"><report name="test">
+	<sessioninfo id="neochae" start="1650075707326" dump="1650075745272"/>
+	<sessioninfo id="neochae" start="1650075707326" dump="1650075745272"/>
+	<package name="com/example/test">
+	</package>
+	<counter type="INSTRUCTION" missed="4211" covered="5371"/>
+	<counter type="BRANCH" missed="333" covered="221"/>
+	<counter type="LINE" missed="1064" covered="1301"/>
+	<counter type="COMPLEXITY" missed="287" covered="395"/>
+	<counter type="METHOD" missed="94" covered="309"/>
+	<counter type="CLASS" missed="2" covered="51"/>
+</report>

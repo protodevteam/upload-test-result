@@ -1,19 +1,7 @@
-import sys
-import os
 import requests
-import json
 
-def send_message(self, text_message, image_url):
-    slack_incoming_url = self.slack_incoming_url
-    slack_payload = {
-        "attachments": [
-            {
-                "text": text_message,
-                "color": "#764FA5"
-            }
-        ]
-    }
 
+def send_message(slack_url, message):
     # Send to slack
-    req = requests.post(url=slack_incoming_url, data=json.dumps(slack_payload))
+    req = requests.post(url=slack_url, data=message.encode('utf-8'))
     print(req)
