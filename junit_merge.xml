@@ -1,0 +1,72 @@
+<testsuite failures="0" tests="32" errors="0" skipped="1" time="4.829000000000001"><properties />
+  <testcase name="testNotificationNok()" classname="com.lguplus.ucmp.tfc.controller.TfcControllerTest" time="3.01" />
+  <testcase name="testNotificationOk()" classname="com.lguplus.ucmp.tfc.controller.TfcControllerTest" time="0.008" />
+  <system-out />
+  <system-err />
+<properties />
+  <testcase name="testUpdateWorkspaceStatusOk_&#49457;&#44277;&#46356;&#48708;&#50629;&#45936;&#51060;&#53944;&#49457;&#44277;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="1.233" />
+  <testcase name="testCreateRunOk_&#47088;&#49373;&#49457;&#49457;&#44277;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.111" />
+  <testcase name="testDeleteWorkspaceOk_&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#49325;&#51228;&#49457;&#44277;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.006" />
+  <testcase name="testIsValidNotificationsOk_&#53084;&#48177;&#51204;&#45804;&#45936;&#51060;&#53552;&#51221;&#49345;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.049" />
+  <testcase name="testIsExistWorkspaceInOrganizationOk_&#51312;&#51649;&#45236;&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#51312;&#54924;&#51316;&#51116;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.008" />
+  <testcase name="testCreateNotificationOk_&#53084;&#48177;&#46321;&#47197;&#49457;&#44277;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.025" />
+  <testcase name="testIsValidWorkspaceNameOk_&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#51060;&#47492;&#49324;&#50857;&#44032;&#45733;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.074" />
+  <testcase name="testIsValidWorkspaceNameNok_&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#51060;&#47492;&#51473;&#48373;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.014" />
+  <testcase name="testGetRunDetailNok_&#47088;&#49345;&#53468;&#51312;&#54924;&#49892;&#54056;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.021" />
+  <testcase name="testCreateWorkspaceNok_&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#49373;&#49457;&#49892;&#54056;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.056" />
+  <testcase name="testCreateVariablesOk_&#48320;&#49688;&#49373;&#49457;&#49457;&#44277;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.088" />
+  <testcase name="testIsExistWorkspaceInOrganizationNok_&#51312;&#51649;&#45236;&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#51312;&#54924;&#50630;&#51020;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.006" />
+  <testcase name="testCreateRunNok_&#47088;&#49373;&#49457;&#49892;&#54056;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.001">
+    <skipped />
+  </testcase>
+  <testcase name="testCreateNotificationNok_&#53084;&#48177;&#46321;&#47197;&#49892;&#54056;&#50696;&#50808;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.008" />
+  <testcase name="testIsValidWorkspaceIdOk_&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#50500;&#51060;&#46356;&#51312;&#54924;&#49457;&#44277;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.004" />
+  <testcase name="testIsValidNotificationsNok_&#53084;&#48177;&#54168;&#51060;&#47196;&#46300;&#45936;&#51060;&#53552;&#48708;&#50612;&#51080;&#51020;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.004" />
+  <testcase name="testUpdateWorkspaceStatusOk_&#50640;&#47084;&#46356;&#48708;&#50629;&#45936;&#51060;&#53944;&#49457;&#44277;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.003" />
+  <testcase name="testUpdateWorkspaceStatusOk_&#45432;&#54000;&#54588;&#52992;&#51060;&#49496;&#51221;&#48372;&#50630;&#51020;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.003" />
+  <testcase name="testCreateNotificationConfig_TFC&#51221;&#49345;&#54028;&#46972;&#48120;&#53552;&#54840;&#52636;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.019" />
+  <testcase name="testIsExistWorkspaceInOrganizationNok_&#51312;&#51649;&#45236;&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#50630;&#51020;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.003" />
+  <testcase name="testGetCurrentStateOk_&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#49345;&#53468;&#51312;&#54924;&#49457;&#44277;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.011" />
+  <testcase name="testIsValidWorkspaceIdNok_&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#50500;&#51060;&#46356;&#51312;&#54924;&#50696;&#50808;&#48156;&#49373;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.003" />
+  <testcase name="testGetRunDetailOk_&#47088;&#49345;&#53468;&#51312;&#54924;&#49457;&#44277;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.007" />
+  <testcase name="testDeleteWorkspaceNok_&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#49325;&#51228;&#49892;&#54056;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.003" />
+  <testcase name="testGetCurrentStateNok_&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#49345;&#53468;&#51312;&#54924;&#49892;&#54056;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.003" />
+  <testcase name="testGetNotification_&#54168;&#51060;&#47196;&#46300;&#45936;&#51060;&#53552;&#45236;&#51221;&#48372;&#51221;&#49345;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.002" />
+  <testcase name="testIsValidNotificationsOk_&#53084;&#48177;&#51204;&#45804;&#45936;&#51060;&#53552;&#51221;&#49345;&#47785;&#47197;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.006" />
+  <testcase name="testIsValidNotificationsNok_&#53084;&#48177;&#45936;&#51060;&#53552;&#48708;&#51221;&#49345;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.003" />
+  <testcase name="testIsValidWorkspaceIdNok_&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#50500;&#51060;&#46356;&#51312;&#54924;&#48520;&#44032;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.003" />
+  <testcase name="testCreateWorkspaceOk_&#50892;&#53356;&#49828;&#54168;&#51060;&#49828;&#49373;&#49457;&#49457;&#44277;()" classname="com.lguplus.ucmp.tfc.service.TfcServiceImplTest" time="0.007" />
+  <system-out>14:19:34.949 [Test worker] DEBUG com.lguplus.ucmp.tfc.service.TfcServiceImpl - createRunReq: testWorkspace | false : Tfc.Request(data=TfcCreateRunReq(attributes=TfcCreateRunReq.CreateRunReqAttributes(isDestroy=false, message=Custom message), type=runs, relationships=TfcCreateRunReq.CreateRunReqRelationships(workspace=TfcCreateRunReq.CreateRunReqRelationships.CreateRunReqWorkspace(data=TfcCreateRunReq.CreateRunReqRelationships.CreateRunReqWorkspace.CreateRunReqWorkspaceData(type=workspaces, id=testWorkspace)))))
+14:19:34.992 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - createRun: testWorkspace | false | response : testId
+14:19:35.000 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - deleteWorkspace: workspaceName | ok : true
+14:19:35.058 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - isExistWorkspaceInOrganization: workspaceId | workspaceResponse : true
+14:19:35.069 [Test worker] DEBUG com.lguplus.ucmp.tfc.service.TfcServiceImpl - createNotificationConfigReq: test : Tfc.Request(data=TfcNotificationConfigCreateReq(attributes=TfcNotificationConfigCreateReq.NotificationConfigCreateReqAttributes(destinationType=generic, enabled=true, name=UCMP notification, token=null, url=null/v1/tfc/notification, triggers=[run:applying, run:completed, run:created, run:errored, run:needs_attention, run:planning]), type=notification-configurations))
+14:19:35.084 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - createNotificationConfig: test | response : true
+14:19:35.157 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - isValidWorkspaceName: testnameB | workspaceResponse : true
+14:19:35.170 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - isValidWorkspaceName: testname | workspaceResponse : false
+14:19:35.196 [Test worker] ERROR com.lguplus.ucmp.tfc.service.TfcServiceImpl - null
+14:19:35.196 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - getRunDetail: testRunId | null : 
+14:19:35.212 [Test worker] DEBUG com.lguplus.ucmp.tfc.service.TfcServiceImpl - createWorkspaceReq: testWorkspace | testIdentifier : Tfc.Request(data=TfcWorkspaceCreateReq(attributes=TfcWorkspaceCreateReq.WorkspaceCreateReqAttributes(autoApply=true, name=testWorkspace, terraformVersion=1.0.5, fileTriggersEnabled=true, workingDirectory=/, triggerPrefixes=[/trigger], vcsRepo=TfcWorkspaceCreateReq.WorkspaceCreateReqAttributes.VcsRepo(identifier=testIdentifier, oauthTokenId=null, branch=null, defaultBranch=true)), type=workspaces))
+14:19:35.254 [Test worker] ERROR com.lguplus.ucmp.tfc.service.TfcServiceImpl - null
+14:19:35.254 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - createWorkspace: testWorkspace | testIdentifier | null : 
+14:19:35.329 [Test worker] DEBUG com.lguplus.ucmp.tfc.service.TfcServiceImpl - createVariablesReq: testWorkspace | Mock for TfcVariable, hashCode: 688211859 : Tfc.Request(data=TfcCreateVariableReq(type=vars, attributes=TfcCreateVariableReq.CreateVariableReqAttributes(key=test, description=test, category=test, hcl=false, sensitive=true)))
+14:19:35.341 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - createVariables: testWorkspace | [Mock for TfcVariable, hashCode: 688211859] | null
+14:19:35.350 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - isExistWorkspaceInOrganization: workspaceId2 | workspaceResponse : false
+14:19:35.362 [Test worker] DEBUG com.lguplus.ucmp.tfc.service.TfcServiceImpl - createNotificationConfigReq: test : Tfc.Request(data=TfcNotificationConfigCreateReq(attributes=TfcNotificationConfigCreateReq.NotificationConfigCreateReqAttributes(destinationType=generic, enabled=true, name=UCMP notification, token=null, url=null/v1/tfc/notification, triggers=[run:applying, run:completed, run:created, run:errored, run:needs_attention, run:planning]), type=notification-configurations))
+14:19:35.368 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - isValidWorkspace: testId | response : true
+14:19:35.389 [Test worker] DEBUG com.lguplus.ucmp.tfc.service.TfcServiceImpl - createNotificationConfigReq: testWorkspace : Tfc.Request(data=TfcNotificationConfigCreateReq(attributes=TfcNotificationConfigCreateReq.NotificationConfigCreateReqAttributes(destinationType=generic, enabled=true, name=UCMP notification, token=testSecret, url=http://localhost/v1/tfc/notification, triggers=[run:applying, run:completed, run:created, run:errored, run:needs_attention, run:planning]), type=notification-configurations))
+14:19:35.390 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - createNotificationConfig: testWorkspace | null : true
+14:19:35.404 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - isExistWorkspaceInOrganization: workspaceId | null : false
+14:19:35.414 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - getCurrentState: workspaceId | response : {EKS_CLUSTER_NAME=testValue}
+14:19:35.426 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - getRunDetail: testRunId | response : applied
+14:19:35.430 [Test worker] ERROR com.lguplus.ucmp.tfc.service.TfcServiceImpl - null
+14:19:35.431 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - deleteWorkspace: workspaceName | null : false
+14:19:35.434 [Test worker] ERROR com.lguplus.ucmp.tfc.service.TfcServiceImpl - null
+14:19:35.435 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - getCurrentState: workspaceId | null : {}
+14:19:35.451 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - isValidWorkspace: testId | null : false
+14:19:35.456 [Test worker] DEBUG com.lguplus.ucmp.tfc.service.TfcServiceImpl - createWorkspaceReq: testWorkspace | testIdentifier : Tfc.Request(data=TfcWorkspaceCreateReq(attributes=TfcWorkspaceCreateReq.WorkspaceCreateReqAttributes(autoApply=true, name=testWorkspace, terraformVersion=1.0.5, fileTriggersEnabled=true, workingDirectory=/, triggerPrefixes=[/trigger], vcsRepo=TfcWorkspaceCreateReq.WorkspaceCreateReqAttributes.VcsRepo(identifier=testIdentifier, oauthTokenId=null, branch=null, defaultBranch=true)), type=workspaces))
+14:19:35.458 [Test worker] INFO com.lguplus.ucmp.tfc.service.TfcServiceImpl - createWorkspace: testWorkspace | testIdentifier | response : testid
+</system-out>
+  <system-err />
+<skipped />
+  </testsuite>
