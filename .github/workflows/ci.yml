@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-18.04
     strategy:
       matrix:
-        python-version: [3.10]
+        python-version: [3.10.4]
 
     steps:
     - name: Checkout
