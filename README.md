@@ -21,7 +21,7 @@ This action will:
 ## Sample Workflow section
 ```
     - name: notify-tests
-      uses: protodevteam/upload-test-result@v1.0.0
+      uses: protodevteam/upload-test-result@release
       env:
         JUNIT_TEST_RESULTS: build/test-results/test
         JACOCO_REPORTS: build/reports/jacoco/test/jacocoTestReport.xml
